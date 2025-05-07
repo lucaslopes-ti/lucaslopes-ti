@@ -20,16 +20,16 @@
 - Optimization algorithms and AI for education and games
 
 🔗 Let's connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-silva-lopes/)
-- 📧 Email: lucaslopes.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucaslopes-ti/)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslopesSenai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopesSenai&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucaslopesSenai&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lucaslopes-ti&theme=radical)
+
 
 ---
 
