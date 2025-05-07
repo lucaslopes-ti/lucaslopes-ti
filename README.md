@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lucas da Silva Lopes!
 
-🎓 I'm a Computer Engineering student at UNIVESP, with a technical degree in Informatics and a strong background as a high school Math teacher. I'm also a certified Brazilian Sign Language (Libras) interpreter and currently work in educational technology, combining accessibility, programming, and innovation.
+🎓 I'm a Computer Engineering student at UNIVESP, with a postgraduate degree in Data Science and Big Data from PUC Minas, and a bachelor's degree in Mathematics. I also hold a technical degree in Informatics and have a strong background as a high school Math and Biology teacher. I'm a certified Brazilian Sign Language (Libras) interpreter and currently work in educational technology, combining accessibility, programming, and innovation.
 
 🚀 I have experience in:
 - 2D/3D game development (Godot, Unity)
