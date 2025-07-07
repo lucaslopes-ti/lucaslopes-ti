@@ -5,7 +5,7 @@
 🚀 I have experience in:
 - 2D/3D game development (Godot, Unity)
 - Data analysis and visualization (Python, Pandas, Power BI, QuickSight)
-- Programming in C, C++, Python, and JavaScript
+- Programming in C/C++/C#, Python, and Java.
 - Relational databases and normalization (SQLite, PostgreSQL)
 - Web development (HTML, CSS, JavaScript, Angular, ASP.NET)
 - Teaching using active learning methods (SESI/SENAI instructor)
