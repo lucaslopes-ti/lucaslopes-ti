@@ -44,10 +44,6 @@ It blends **Mathematics**, **accessibility**, and **technology** into an interac
 - Integration with IoT and data monitoring systems  
 - Built with **Python**, **C#**, and **AWS**  
 
-<p align="center">
-  <img src="https://github.com/lucaslopes-ti/exataslibras/actions/workflows/build.yml/badge.svg" alt="Build Status" />
-</p>
-
 ---
 
 ### 🧠 Currently Learning
