@@ -100,5 +100,5 @@ To create **accessible educational technologies** that empower learning through 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopes-ti&theme=tokyonight" alt="GitHub Streak" />
 </p>
