@@ -1,56 +1,83 @@
-# 👋 Hi there, I'm Lucas da Silva Lopes!
+<!-- PROFILE README for Lucas Lopes -->
 
-🎓 I'm a Computer Engineering at UNIVESP, with a postgraduate degree in Data Science and Big Data from PUC Minas, and a bachelor's degree in Mathematics. I also hold a technical degree in Informatics and have a strong background as a high school Math teacher. I'm a certified Brazilian Sign Language (Libras) interpreter and currently work in educational technology, combining accessibility, programming, and innovation.
-
-🚀 I have experience in:
-- 2D/3D game development (Godot, Unity)
-- Data analysis and visualization (Python, Pandas, Power BI, QuickSight)
-- Programming in C/C++/C#, Python, and Java.
-- Website creation using WordPress, applying custom HTML, CSS, JavaScript, and PHP
-- Relational databases and normalization (SQLite, PostgreSQL)
-- Web development (HTML, CSS, JavaScript, Angular, ASP.NET)
-- Teaching using active learning methods (SESI/SENAI instructor)
-- IoT projects with ESP32 and sensors (DHT22, DS18B20)
-- Sign language interpreting for educational, cultural, and scientific events
-
-🎯 I'm passionate about making technology more accessible and educational for everyone.
-
-📚 Currently learning:
-- Data Engineering with AWS (Glue, Athena, S3, EMR, Redshift)
-- Game design principles
-- Optimization algorithms and AI for education and games
-
-🔗 Let's connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucaslopes-ti/)
+<h1 align="center">👋 Hi, I'm Lucas Lopes</h1>
+<h3 align="center">Computer Engineer | Data Scientist | Accessibility & Education Enthusiast</h3>
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucaslopes-ti&theme=radical)
+🎓 I'm a **Computer Engineer** at **UNIVESP**, holding a **dual degree** in **Information Technology (IoT emphasis)** and **Computer Engineering**.  
+I also hold a **postgraduate degree in Data Science and Big Data** from **PUC Minas**, and a **bachelor’s degree in Mathematics**.  
 
-
----
-
-### 🧠 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+💡 I'm passionate about **making technology more accessible and educational**, combining **software development**, **data analysis**, and **innovation in learning**.  
+As a **certified Brazilian Sign Language (Libras) interpreter**, I develop inclusive technology projects that connect **programming, education, and accessibility**.
 
 ---
 
-📝 *This README reflects my journey as an educator and developer passionate about accessibility, technology, and creative learning.*
+### 🚀 Technical Experience
+
+- 💻 **Programming:** C#, Python, Java, C/C++  
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Angular, ASP.NET, WordPress  
+- 🎮 **Game Development:** Godot, Unity (2D/3D)  
+- 📊 **Data Analysis & Visualization:** Python (Pandas, Matplotlib), Power BI, AWS QuickSight  
+- 🗃️ **Databases:** SQLite, PostgreSQL (relational modeling & normalization)  
+- ☁️ **Cloud & Data Engineering:** AWS Glue, Athena, S3, Redshift, EMR  
+- 🔌 **IoT Projects:** ESP32 with DHT22 and DS18B20 sensors  
+
+---
+
+### 🧩 Featured Project  
+
+#### 🎓 [Exatas Libras](https://exataslibras.com.br/) — *In Development*  
+**Exatas Libras** is an **educational platform** focused on teaching STEM subjects through **Brazilian Sign Language (Libras)**.  
+It merges **mathematical education**, **accessibility**, and **technology**, offering interactive and inclusive learning experiences.  
+
+**Main features:**  
+- 📺 Video lessons in Libras with synchronized captions and transcripts  
+- 🧠 Gamified exercises for concept reinforcement  
+- 📈 Dashboards for teachers and students  
+- ⚙️ Integration with data analytics and IoT environments  
+- 🧩 Built using **Python**, **C#**, and **AWS**  
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced **Data Engineering** with AWS (Glue, Athena, S3, Redshift, EMR)  
+- **Game design** and **AI-driven learning environments**  
+- **Software architecture** and optimization techniques in **C#** and **Python**  
+
+---
+
+### 🎯 Goal
+
+To build **inclusive and innovative educational technologies** that empower people through accessibility, data, and creativity.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,cpp,html,css,js,angular,unity,godot,aws,postgresql,sqlite,powerbi" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Lopes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucas.dalps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lucas%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://exataslibras.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Exatas%20Libras-green?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+</p>
+
+---
+
+⭐ *“Code for accessibility. Teach for inclusion. Learn for innovation.”*  
