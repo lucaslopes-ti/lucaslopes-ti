@@ -45,7 +45,7 @@ It blends **Mathematics**, **accessibility**, and **technology** into an interac
 - Built with **Python**, **C#**, and **AWS**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaslopes-ti&repo=exataslibras&theme=tokyonight" alt="Exatas Libras repo" />
+  <img src="https://github.com/lucaslopes-ti/exataslibras/actions/workflows/build.yml/badge.svg" alt="Build Status" />
 </p>
 
 ---
@@ -97,8 +97,4 @@ To create **accessible educational technologies** that empower learning through 
 
 <p align="center">
   🧭 <em>“Code for accessibility. Teach for inclusion. Learn for innovation.”</em>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopes-ti&theme=tokyonight" alt="GitHub Streak" />
 </p>
