@@ -71,7 +71,7 @@ To build **inclusive and innovative educational technologies** that empower peop
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Lopes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:lucas.dalps@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lucas%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://exataslibras.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Website-Exatas%20Libras-green?style=for-the-badge&logo=google-chrome" alt="Website" />
