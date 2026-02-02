@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Lopes</h1>
-<h3 align="center">Computer Engineer | Mathematician | Data Engeneering</h3>
+<h3 align="center">Computer Engineer | Mathematician | Data Engineering</h3>
 <p align="center">
   Focus: Assistive Technology, Educational Software & Data Engineering
 </p>
