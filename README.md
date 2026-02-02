@@ -1,96 +1,82 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Lucas Lopes</span></h1>
-<h3 align="center">💻 Computer Engineer | Data Scientist | Accessibility & Education Enthusiast 💡</h3>
+<h1 align="center">Lucas Lopes</h1>
+<h3 align="center">Computer Engineer | Mathematician | Data Scientist</h3>
+<p align="center">
+  Focus: Assistive Technology, Educational Software & Data Engineering
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00BFFF&center=true&vCenter=true&width=450&lines=Making+Technology+Accessible;Building+Inclusive+Learning+Tools;Data+Science+%7C+Software+Engineering+%7C+IoT;Coding+for+Inclusion+%F0%9F%8C%9F" alt="Typing animation" />
+  <a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank">LinkedIn</a> •
+  <a href="mailto:lucas.dalps@gmail.com">Email</a> •
+  <a href="https://exataslibras.com.br" target="_blank">Portfolio</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-🎓 **Computer Engineer** (UNIVESP) with a dual degree in **Information Technology (IoT)** and **Computer Engineering**.  
-🎓 **Postgraduate** in **Data Science and Big Data** (PUC Minas) and **Bachelor’s in Mathematics**.  
-🧩 **Certified Brazilian Sign Language (Libras)** interpreter focused on accessibility, education, and tech inclusion.  
-
-💡 Passionate about **educational technologies**, **data solutions**, and **accessible digital innovation**.  
-I love connecting **programming, education, and accessibility** to create more inclusive learning experiences.
-
----
-
-### 🚀 Technical Experience
-
-🔹 **Programming:** C#, Python, Java, C/C++  
-🔹 **Web Development:** HTML, CSS, JavaScript, Angular, ASP.NET, WordPress  
-🔹 **Game Development:** Godot, Unity (2D/3D)  
-🔹 **Data Tools:** Pandas, Matplotlib, Power BI, AWS QuickSight  
-🔹 **Databases:** PostgreSQL, SQLite  
-🔹 **Cloud & Data Eng.:** AWS Glue, Athena, S3, Redshift, EMR  
-🔹 **IoT Projects:** ESP32 + DHT22, DS18B20 sensors  
-
----
-
-### 🧩 Featured Project  
-
-#### 🎓 [Exatas Libras](https://exataslibras.com.br/) — *In Development*
-
-Exatas Libras is an **educational platform** that teaches STEM disciplines in [translate:Português Brasileiro de Sinais (Libras)].  
-It blends **Mathematics**, **accessibility**, and **technology** into an interactive and inclusive learning system.
-
-🧱 **Main Features**
-- Video lessons in [translate:Libras] with subtitles and transcripts  
-- Gamified activities for knowledge reinforcement  
-- Dashboards for teachers and students  
-- Integration with IoT and data monitoring systems  
-- Built with **Python**, **C#**, and **AWS**  
-
----
-
-### 🧠 Currently Learning
-
-- Advanced **Data Engineering** with AWS (Glue, Athena, S3)  
-- **Game Design** and **AI-powered learning environments**  
-- Scalable **software architecture** in **C#** and **Python**
-
----
-
-### 🎯 Goal
-
-To create **accessible educational technologies** that empower learning through **data, innovation, and inclusion**.  
+### Professional Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucaslopes-ti&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=git+commit+-m+%22Optimizing+algorithms+for+accessibility%22;dotnet+run+--project+ExatasLibras;import+pandas+as+pd;SELECT+*+FROM+educational_data;" alt="Terminal Animation" />
 </p>
 
----
+Dual-background professional with degrees in **Computer Engineering** and **Mathematics**, specializing in **Data Science**. My work bridges the gap between software architecture and inclusive education, with a specific focus on developing technical solutions for the Deaf community (Libras).
 
-### 🛠️ Tech Stack
+I combine rigorous mathematical modeling with software engineering principles to build scalable educational platforms, IoT monitoring systems, and data-driven learning environments.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,cpp,html,css,js,angular,unity,godot,aws,postgresql,sqlite,powerbi" /><br>
-</p>
+### Education & Qualifications
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=tokyonight" alt="Lucas' GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=tokyonight" alt="Top languages" height="150"/>
-</p>
+* **Postgraduate in Data Science & Big Data** | PUC Minas
+* **B.Sc. in Computer Engineering** | UNIVESP
+* **B.Sc. in Mathematics**
+* **Dual Degree in Information Technology (IoT)**
+* **Certified Libras Interpreter** | Specialization in STEM accessibility
 
 ---
 
-### 📫 Let's Connect
+### Technical Proficiencies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Lopes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:lucas.dalps@gmail.com"><img src="https://img.shields.io/badge/Email-Lucas-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://exataslibras.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-Exatas%20Libras-green?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Core Programming** | C#, Python, Java, C/C++ |
+| **Data Engineering & Cloud** | AWS (Glue, Athena, S3, Redshift, EMR), Pandas, Power BI |
+| **Web Development** | ASP.NET, Angular, JavaScript, HTML5/CSS3, WordPress |
+| **Game Engines & Sim** | Unity (C#), Godot (GDScript/C#) |
+| **Database Management** | PostgreSQL, SQLite, SQL Server |
+| **IoT & Embedded** | ESP32, Arduino Integration, Sensor Networks (DHT22, DS18B20) |
+
+---
+
+### Featured Initiative: Exatas Libras
+
+**Role:** Lead Developer & Researcher
+**Status:** In Development
+
+Exatas Libras is a dedicated educational platform engineered to teach STEM (Science, Technology, Engineering, and Mathematics) disciplines using **Brazilian Sign Language (Libras)** as the primary language of instruction.
+
+**Technical Highlights:**
+* **Architecture:** Hybrid learning system integrating video streaming with gamified assessment modules.
+* **Backend:** Developed using Python and C# for robust logic handling.
+* **Infrastructure:** Scalable cloud deployment on **AWS**.
+* **Innovation:** Features integration with IoT systems for real-time data monitoring exercises, bridging theoretical math with practical application.
+
+---
+
+### Current Research & Development Goals
+
+* **Data Engineering:** Optimizing ETL pipelines and data lakes using AWS ecosystems.
+* **Accessible Tech:** Developing AI-driven interfaces for sign language recognition and translation.
+* **Software Architecture:** Implementing Clean Architecture patterns in .NET and Python environments.
+
+---
+
+### GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=graywhite&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=graywhite&hide_title=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  🧭 <em>“Code for accessibility. Teach for inclusion. Learn for innovation.”</em>
+  <em>"Code for accessibility. Teach for inclusion. Learn for innovation."</em>
 </p>
