@@ -70,11 +70,11 @@ Exatas Libras is a dedicated educational platform engineered to teach STEM (Scie
 
 ### GitHub Analytics
 
+<h3 align="left">GitHub Analytics</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=graywhite&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=graywhite&hide_title=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=radical&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=radical&hide_title=true" alt="Top Languages" height="150"/>
 </p>
-
 ---
 
 <p align="center">
