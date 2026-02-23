@@ -1,28 +1,28 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-### Sobre mim
+### About Me
 
-Sou **Professor de Tecnologia no SENAI** e **Desenvolvedor Freelance**, com foco em ensino, tecnologia assistiva e plataformas educacionais.
+I am a **Technology Instructor at SENAI** and a **Freelance Developer**, focusing on education, assistive technology, and educational platforms.
 
-Minhas principais áreas:
+My main areas:
 - 🎮 **Game Programming** (Unity, Godot, UPBGE)
-- ♿ **Tecnologia Assistiva** (Libras + STEM)
+- ♿ **Assistive Technology** (Libras + STEM)
 - 📈 **Data Engineering** (AWS, Python, ETL)
 - 🌐 **Web Development** (ASP.NET, Angular)
 
 ---
 
-### 🌟 Projeto Destaque: Exatas Libras
+### 🌟 Featured Project: Exatas Libras
 
-✅ **Em desenvolvimento** | **Lead Developer & Pesquisador**
+✅ **In development** | **Lead Developer & Researcher**
 
-Plataforma educacional que ensina **STEM** usando **Libras** como língua principal.
+An educational platform that teaches **STEM** using **Libras** (Brazilian Sign Language) as the primary language.
 
-**Arquitetura:**
-- **Frontend:** Angular + Streaming de vídeo
+**Architecture:**
+- **Frontend:** Angular + Video Streaming
 - **Backend:** Python / C# + AWS (S3, Glue, Athena)
-- **IoT:** ESP32 + Sensores (DHT22, DS18B20)
-- **Banco de dados:** PostgreSQL
+- **IoT:** ESP32 + Sensors (DHT22, DS18B20)
+- **Database:** PostgreSQL
 
 🔗 [exataslibras.com.br](https://exataslibras.com.br/)
 
@@ -37,23 +37,23 @@ Plataforma educacional que ensina **STEM** usando **Libras** como língua princi
 
 ---
 
-### 📚 Formação
+### 📚 Education
 
-- 🎓 **Pós-Graduação Data Science & Big Data** – PUC Minas 
-- 🎓 **Engenharia de Computação** – UNIVESP 
-- 🎓 **Matemática**
-- ♿ **Intérprete Certificado de Libras** – Especialização em STEM
+- 🎓 **Postgraduate in Data Science & Big Data** – PUC Minas 
+- 🎓 **Computer Engineering** – UNIVESP 
+- 🎓 **Mathematics**
+- ♿ **Certified Libras Interpreter** – Specialization in STEM
 
 ---
 
-### 🎯 O que estou construindo
+### 🎯 What I'm Building
 
 ```ts
-projetos = {
+projects = {
     "edtech": "Exatas Libras v2.0 (IoT + Streaming)",
     "game_dev": "Guardiãs das Águas (Saga SENAI)",
-    "acessibilidade": "AudioRadar (Desktop App + Firebase)",
-    "estudos": "AWS Data Lakes + Sign Language AI"
+    "accessibility": "AudioRadar (Desktop App + Firebase)",
+    "studies": "AWS Data Lakes + Sign Language AI"
 }
 ```
 
