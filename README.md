@@ -55,6 +55,7 @@ projetos = {
     "acessibilidade": "AudioRadar (Desktop App + Firebase)",
     "estudos": "AWS Data Lakes + Sign Language AI"
 }
+```
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
@@ -103,3 +104,4 @@ projetos = {
 <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=gotham&langs_count=8&hide_border=true" width="40%" />
 </div>
+
