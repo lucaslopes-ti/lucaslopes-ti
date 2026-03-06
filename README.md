@@ -111,6 +111,9 @@ const currentBuild = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lucaslopes-ti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
 </div>
