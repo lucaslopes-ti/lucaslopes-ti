@@ -111,7 +111,8 @@ const currentBuild = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://stats.modernweb.dev/api/top-languages?username=lucaslopes-ti&layout=compact&langs_count=8&theme=dracula)
+
 
 
 <div align="center">
