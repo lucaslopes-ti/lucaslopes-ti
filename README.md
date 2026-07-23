@@ -111,12 +111,9 @@ const currentBuild = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
 </div>
 
-![Top Languages](https://stats.modernweb.dev/api/top-languages?username=lucaslopes-ti&layout=compact&langs_count=8&theme=dracula)
-
-
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucaslopes-ti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+  <img src="https://github-readme-widget-six.vercel.app/api/pet"  />
 </div>
 
 <picture>
