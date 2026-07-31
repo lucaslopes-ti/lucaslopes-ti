@@ -1,54 +1,71 @@
-<h1 align="center">Lucas Lopes</h1>
-<h3 align="center">Computer Engineer · Full-Stack Developer · EdTech & Systems Architect</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0a1628,70:0066cc,100:0a0a1a&height=220&section=header&text=LUCAS%20LOPES&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Engineering&descAlignY=58&descSize=19&descColor=3399ff&animation=fadeIn" />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://dev.to/lucas_lopes_ee92d9cd4fdbe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:lucas.dalps@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=3399FF&background=0A0A1A&center=true&vCenter=true&width=900&lines=%5Bdev%40lucaslopes+~%5D%24+./deploy_pipeline+--target+production+--status+ready" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-0066cc?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Online">
+  <img src="https://img.shields.io/badge/Area-Software%20%26%20Data%20Engineering-0a1628?style=for-the-badge&logo=databricks&logoColor=3399ff" alt="Area Software & Data Engineering">
+</p>
 
-### 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Computer Engineer with hands-on experience shipping **production-grade systems** — from serverless web platforms to real-time IoT pipelines and interactive game experiences.
+Engenheiro da Computação com experiência prática na entrega de **sistemas de produção** — de plataformas web serverless a pipelines de dados em tempo real, IoT e experiências interativas de jogos.
 
-I architect, build, and deploy end-to-end solutions, making deliberate technology choices at every layer: infrastructure, data, API design, and UI.
+Projeto, construo e faço deploy de soluções end-to-end, fazendo escolhas tecnológicas deliberadas em cada camada: infraestrutura, dados, design de APIs e UI.
 
-Currently leading the development of **Exatas Libras**, a live EdTech platform serving users with hearing disabilities through accessible STEM education.
+Minha experiência integra **desenvolvimento de software**, **engenharia de dados** e **arquitetura de sistemas**, com ênfase na criação de soluções escaláveis, pipelines de ETL robustos e plataformas orientadas por dados.
 
----
+A combinação entre **Data Science**, **Big Data** e **Engenharia de Software** amplia minha capacidade de atuar de forma estratégica, aplicando tecnologia para gerar valor real, eficiência operacional e excelência técnica.
 
-### 🚀 What I Build
+Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e visão analítica para impulsionar a transformação digital e elevar o nível de maturidade tecnológica das organizações.
 
-| Area | Technologies | Context |
-|------|-------------|---------|
-| **Web Platforms** | Next.js 16, TypeScript, Supabase, PostgreSQL | Production SaaS with auth, payments, CMS |
-| **Backend & APIs** | ASP.NET, Django, Flask, Server Actions | REST, event-driven webhooks, middleware |
-| **Data Engineering** | AWS Glue, S3, Pandas, Power BI | ETL pipelines, Data Lakes, dashboards |
-| **Game Engineering** | Unity, Godot, UPBGE, Blender | Full game loops, 3D pipelines, physics |
-| **IoT Systems** | ESP32, Arduino, DHT22, DS18B20 | Sensor integration, real-time data |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
----
+## <span style="color:#3399FF;">🛠️ Habilidades Técnicas e Ferramentas</span>
 
-### 🏗️ Featured: Exatas Libras (Production)
+<table align="center">
+<tr>
+<td>
+
+| **Categoria** | **Tecnologias** |
+|----------------|-----------------|
+| **Linguagens / Frameworks** | <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/4accd2f20a00fd4364e3456b3525b9af98b827afb9d4ec9f62cce6732552fa06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="50" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" width="50" /> ![Flask](https://skillicons.dev/icons?i=flask) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Angular](https://skillicons.dev/icons?i=angular) |
+| **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Data Engineering / Cloud** | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" /> ![Supabase](https://skillicons.dev/icons?i=supabase) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Banco de Dados** | <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="50" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Git](https://skillicons.dev/icons?i=git) <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" /> ![Vercel](https://skillicons.dev/icons?i=vercel) |
+| **Game Dev** | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> ![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white) ![Unity](https://skillicons.dev/icons?i=unity) ![Godot](https://skillicons.dev/icons?i=godot) ![Blender](https://skillicons.dev/icons?i=blender) |
+| **Estudando Atualmente** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Linux](https://skillicons.dev/icons?i=linux) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Arduino](https://skillicons.dev/icons?i=arduino) |
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## <span style="color:#3399FF;">🏗️ Projeto em Destaque: Exatas Libras (Produção)</span>
+
+<div align="center">
 
 > **Lead Developer & Architect** — [exataslibras.com.br](https://exataslibras.com.br/)
-> STEM learning platform using **Libras (Brazilian Sign Language)** as primary language.
+> Plataforma de ensino STEM usando **Libras (Língua Brasileira de Sinais)** como linguagem primária.
 
-**Architecture highlights:**
-- **Serverless & Edge-ready** via Next.js 16 App Router with React Server Components — reducing client bundle and improving Core Web Vitals
-- **BaaS with Supabase** — managed PostgreSQL, SSR-compatible auth, and middleware-based session control, replacing a traditional backend layer
-- **Stripe Checkout + Webhooks** — async payment event processing with idempotency-safe handlers
-- **Hybrid CMS** — typed static course catalog + MDX blog with Grey Matter parsing
-- **Observability** — Vercel Analytics + Speed Insights in production
-- **IoT layer (v2.0)** — ESP32 sensors feeding real-time data into the platform
+</div>
+
+**Destaques da Arquitetura:**
+
+| Feature | Detalhe |
+|---------|---------|
+| **Serverless & Edge-ready** | Next.js 16 App Router com React Server Components |
+| **BaaS com Supabase** | PostgreSQL gerenciado, auth SSR-compatible, middleware |
+| **Pagamentos** | Stripe Checkout + Webhooks com handlers idempotentes |
+| **CMS Híbrido** | Catálogo estático tipado + Blog MDX com Grey Matter |
+| **Observabilidade** | Vercel Analytics + Speed Insights em produção |
+| **IoT (v2.0)** | Sensores ESP32 alimentando dados em tempo real |
 
 ```text
 Client (RSC/Edge)
@@ -61,56 +78,81 @@ Next.js App Router ──► Supabase (Auth + Postgres)
       └──► IoT Layer (ESP32 → Sensor Data)
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 📦 Other Projects
+## <span style="color:#3399FF;">🚀 Projetos de Destaque</span>
 
-```ts
-const currentBuild = {
-  game:          "Guardiãs das Águas — narrative game (Unity/Godot), SENAI",
-  accessibility: "AudioRadar — desktop app with Firebase real-time backend",
-  research:      "Sign Language AI — CV/ML pipeline for Libras recognition",
-  data:          "AWS Data Lake architecture studies + certification track",
-}
-```
+### Plataformas Web & SaaS
 
----
+| Projeto | Descrição | Link |
+|---|---|---|
+| **Exatas Libras** | Plataforma EdTech serverless com Next.js 16, Supabase, Stripe e IoT — acessibilidade STEM em Libras. | [exataslibras.com.br](https://exataslibras.com.br/) |
 
-### 📚 Education
+### Data Engineering & Analytics
 
-- 🎓 **Postgraduate — Data Science & Big Data** · PUC Minas
-- 🎓 **Computer Engineering** · UNIVESP
-- 🎓 **Mathematics**
-- ♿ **Certified Libras Interpreter** · STEM Specialization
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **AWS Data Lake** | Arquitetura de Data Lake com AWS Glue, S3 e Pandas — pipelines de ETL e dashboards. | Em desenvolvimento |
 
----
+### Game Dev & Interatividade
+
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **Guardiãs das Águas** | Game narrativo educacional desenvolvido com Unity/Godot no SENAI. | Em desenvolvimento |
+| **AudioRadar** | App desktop com Firebase real-time backend para acessibilidade. | Em desenvolvimento |
+
+### Pesquisa & IA
+
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **Sign Language AI** | Pipeline de Computer Vision e Machine Learning para reconhecimento de Libras. | Em desenvolvimento |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## <span style="color:#3399FF;">📚 Formação Acadêmica</span>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
+
+| 🎓 Formação | Instituição |
+|---|---|
+| **Pós-Graduação — Data Science & Big Data** | PUC Minas |
+| **Engenharia da Computação** | UNIVESP |
+| **Licenciatura em Matemática** | — |
+| **♿ Intérprete Certificada de Libras** | Especialização STEM |
+
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## <span style="color:#3399FF;">📊 Estatísticas</span>
+
+<details>
+  <summary><b>📈 GitHub Stats</b></summary>
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Minhas Estatísticas no GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslopes-ti&show_icons=true&title_color=3399FF&icon_color=3399FF&text_color=ffffff&bg_color=0a0a1a&border_color=3399FF&hide_border=false" width="100%">
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes-ti&layout=compact&title_color=3399FF&text_color=ffffff&bg_color=0a0a1a&border_color=3399FF&langs_count=8" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslopes-ti&theme=dark&background=0a0a1a&border=3399FF&ring=3399FF&fire=0066cc&currStreakLabel=3399FF&sideLabels=3399FF&dates=aaaaaa" width="49%">
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaslopes-ti&bg_color=0a0a1a&color=3399FF&line=0066cc&point=ffffff&area=true&area_color=3399FF&border_color=3399FF" width="100%">
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+</details>
+
+## <span style="color:#3399FF;">🐍 Contribuições</span>
 
 <div align="center">
   <img src="https://github-readme-widget-six.vercel.app/api/pet"  />
@@ -121,3 +163,33 @@ const currentBuild = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslopes-ti/lucaslopes-ti/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaslopes-ti/lucaslopes-ti/output/github-snake.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## <span style="color:#3399FF;">🌐 Conexão e Contato</span>
+
+<div align="center">
+
+Interessado em colaborar ou tem um projeto desafiador? Conecte-se comigo!
+
+<a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+<a href="https://dev.to/lucas_lopes_ee92d9cd4fdbe" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="35" />
+</a>
+<a href="mailto:lucas.dalps@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+
+<br><br>
+
+[![Stars](https://img.shields.io/github/stars/lucaslopes-ti/lucaslopes-ti?style=social)](https://github.com/lucaslopes-ti/lucaslopes-ti/stargazers)
+[![Forks](https://img.shields.io/github/forks/lucaslopes-ti/lucaslopes-ti?style=social)](https://github.com/lucaslopes-ti/lucaslopes-ti/network/members)
+[![Follow](https://img.shields.io/github/followers/lucaslopes-ti?style=social)](https://github.com/lucaslopes-ti)
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a1a,30:0a1628,70:0066cc,100:0a0a1a&section=footer" />
+</div>
