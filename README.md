@@ -13,17 +13,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Construo sistemas que vão pra produção — do serverless ao pipeline de dados em tempo real, passando por IoT e jogos.
+Construo sistemas que vão pra produção — serverless, pipeline de dados em tempo real, IoT, jogos.
 
-Meu dia a dia: desenhar arquitetura, escrever código e fazer deploy. Escolho cada tecnologia no propósito: infra, dados, API, UI.
+No dia a dia: arquiteto, codifico e faço deploy. Cada tecnologia tem um porquê: infra, dados, API, UI.
 
-Atuo em software, dados e arquitetura — foco em escalabilidade, ETLs que funcionam e plataformas que entregam valor de verdade.
+Trabalho com software, dados e arquitetura. Foco no que importa: escalabilidade, ETL que funciona e plataforma que entrega valor.
 
-Uno Data Science, Big Data e Engenharia de Software pra resolver problemas reais com técnica e eficiência.
+Data Science + Big Data + Engenharia de Software pra resolver problema real.
 
-Fora do código: já pulei de paraquedas 🪂, curto jogos, estou sempre em algum projeto paralelo e acreditando que tecnologia tem que servir pra algo — não só encher slide.
+Fora do código: filho de pais surdos 🤟, já pulei de paraquedas 🪂, curto jogos, sempre em algum projeto paralelo. Tecnologia tem que servir pra algo — não só encher slide.
 
-Sempre aberto a trocar ideia sobre arquitetura, dados, jogos ou qualquer projeto maluco que valha a pena construir.
+Sempre aberto a trocar ideia sobre arquitetura, dados, jogos, acessibilidade ou qualquer projeto maluco que valha a pena.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -100,29 +100,14 @@ Next.js App Router ──► Supabase (Auth + Postgres)
 
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
-| **Guardiãs das Águas** | Game narrativo educacional desenvolvido com Unity/Godot no SENAI. | Em desenvolvimento |
-| **AudioRadar** | App desktop com Firebase real-time backend para acessibilidade. | Em desenvolvimento |
+| **Guardiãs das Águas** | Game narrativo educacional desenvolvido com Unity/Godot no SENAI. | [SENAI Game Hub](https://senaigamehub.vercel.app/)  |
+| **AudioRadar** | App desktop com Firebase real-time backend para acessibilidade. | [vradar.com.br](https://vradar.com.br/)  |
 
 ### Pesquisa & IA
 
 | Projeto | Habilidade Demonstrada | Link |
 |---|---|---|
 | **Sign Language AI** | Pipeline de Computer Vision e Machine Learning para reconhecimento de Libras. | Em desenvolvimento |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## <span style="color:#3399FF;">📚 Formação Acadêmica</span>
-
-<div align="center">
-
-| 🎓 Formação | Instituição |
-|---|---|
-| **Pós-Graduação — Data Science & Big Data** | PUC Minas |
-| **Engenharia da Computação** | UNIVESP |
-| **Licenciatura em Matemática** | — |
-| **♿ Intérprete Certificada de Libras** | Especialização STEM |
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
