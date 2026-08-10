@@ -13,15 +13,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Engenheiro da Computação com experiência prática na entrega de **sistemas de produção** — de plataformas web serverless a pipelines de dados em tempo real, IoT e experiências interativas de jogos.
+Construo sistemas que vão pra produção — do serverless ao pipeline de dados em tempo real, passando por IoT e jogos.
 
-Projeto, construo e faço deploy de soluções end-to-end, fazendo escolhas tecnológicas deliberadas em cada camada: infraestrutura, dados, design de APIs e UI.
+Meu dia a dia: desenhar arquitetura, escrever código e fazer deploy. Escolho cada tecnologia no propósito: infra, dados, API, UI.
 
-Minha experiência integra **desenvolvimento de software**, **engenharia de dados** e **arquitetura de sistemas**, com ênfase na criação de soluções escaláveis, pipelines de ETL robustos e plataformas orientadas por dados.
+Atuo em software, dados e arquitetura — foco em escalabilidade, ETLs que funcionam e plataformas que entregam valor de verdade.
 
-A combinação entre **Data Science**, **Big Data** e **Engenharia de Software** amplia minha capacidade de atuar de forma estratégica, aplicando tecnologia para gerar valor real, eficiência operacional e excelência técnica.
+Uno Data Science, Big Data e Engenharia de Software pra resolver problemas reais com técnica e eficiência.
 
-Busco oportunidades desafiadoras onde possa aplicar conhecimentos técnicos e visão analítica para impulsionar a transformação digital e elevar o nível de maturidade tecnológica das organizações.
+Fora do código: já pulei de paraquedas 🪂, curto jogos, estou sempre em algum projeto paralelo e acreditando que tecnologia tem que servir pra algo — não só encher slide.
+
+Sempre aberto a trocar ideia sobre arquitetura, dados, jogos ou qualquer projeto maluco que valha a pena construir.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -191,5 +193,5 @@ Interessado em colaborar ou tem um projeto desafiador? Conecte-se comigo!
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a1a,30:0a1628,70:0066cc,100:0a0a1a&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0a1a,30:0a1628,70:0066cc,100:0a0a1a&section=footer" />
 </div>
