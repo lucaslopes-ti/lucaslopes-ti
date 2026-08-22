@@ -13,17 +13,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Construo sistemas que vão pra produção — serverless, pipeline de dados em tempo real, IoT, jogos.
+Passo a maior parte do tempo criando sistemas: arquiteto, codifico, faço deploy. Já coloquei em produção coisa com serverless, dados em tempo real, IoT e uns jogos pelo caminho.
 
-No dia a dia: arquiteto, codifico e faço deploy. Cada tecnologia tem um porquê: infra, dados, API, UI.
+Também dou aula na area (informatica e jogos digitais) e realizando pesquisas academicas de acessibilidade em Libras. Filho de pais surdos — acessibilidade pra mim não é buzzword 🤟
 
-Trabalho com software, dados e arquitetura. Foco no que importa: escalabilidade, ETL que funciona e plataforma que entrega valor.
-
-Data Science + Big Data + Engenharia de Software pra resolver problema real.
-
-Fora do código: filho de pais surdos 🤟, já pulei de paraquedas 🪂, curto jogos, sempre em algum projeto paralelo. Tecnologia tem que servir pra algo — não só encher slide.
-
-Sempre aberto a trocar ideia sobre arquitetura, dados, jogos, acessibilidade ou qualquer projeto maluco que valha a pena.
+Quando não tô codando: videogame, impressão 3D ou algum projeto paralelo. Já pulei de paraquedas uma vez, e a história é melhor contada pessoalmente 🪂
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
