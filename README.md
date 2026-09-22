@@ -13,11 +13,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Passo a maior parte do tempo criando sistemas: arquiteto, codifico, faço deploy. Já coloquei em produção coisa com serverless, dados em tempo real, IoT e uns jogos pelo caminho.
+Desenvolvo software de ponta a ponta — da arquitetura ao deploy. Já coloquei em produção desde sistemas serverless e pipelines de dados em tempo real até soluções com IoT e desenvolvimento de jogos.
 
-Também dou aula na area (informatica e jogos digitais) e realizando pesquisas academicas de acessibilidade em Libras. Filho de pais surdos — acessibilidade pra mim não é buzzword 🤟
+Também atuo como professor (informática e jogos digitais) e pesquiso acessibilidade digital com foco em Libras. Como filho de pais surdos, acessibilidade é o ponto de partida dos meus projetos, não um detalhe de última hora.
 
-Quando não tô codando: videogame, impressão 3D ou algum projeto paralelo. Já pulei de paraquedas uma vez, e a história é melhor contada pessoalmente 🪂
+Fora do terminal: hardware, impressão 3D, games e protótipos de fim de semana. (E se quiser saber sobre a vez em que pulei de paraquedas, me cobra pessoalmente). 🪂
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
