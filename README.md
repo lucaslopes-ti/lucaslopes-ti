@@ -13,11 +13,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-Desenvolvo software de ponta a ponta — da arquitetura ao deploy. Já coloquei em produção desde sistemas serverless e pipelines de dados em tempo real até soluções com IoT e desenvolvimento de jogos.
+Olá! Sou o Lucas, desenvolvedor de software e apaixonado por criar projetos que funcionam de verdade na prática — desde aplicações web e pipelines de dados até soluções com IoT e jogos.
 
-Também atuo como professor (informática e jogos digitais) e pesquiso acessibilidade digital com foco em Libras. Como filho de pais surdos, acessibilidade é o ponto de partida dos meus projetos, não um detalhe de última hora.
+Também sou professor de tecnologia (ministrando aulas de informática e desenvolvimento de jogos) e pesquiso soluções de acessibilidade em Libras. Como sou filho de pais surdos, criar tecnologia inclusiva é algo que faz parte da minha história e do meu dia a dia 🤟
 
-Fora do terminal: hardware, impressão 3D, games e protótipos de fim de semana. (E se quiser saber sobre a vez em que pulei de paraquedas, me cobra pessoalmente). 🪂
+No tempo livre, você provavelmente vai me encontrar jogando videogame, mexendo com impressão 3D, explorando projetos de hardware ou inventando alguma ideia nova de código.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -29,13 +29,13 @@ Fora do terminal: hardware, impressão 3D, games e protótipos de fim de semana.
 
 | **Categoria** | **Tecnologias** |
 |----------------|-----------------|
-| **Linguagens / Frameworks** | <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/4accd2f20a00fd4364e3456b3525b9af98b827afb9d4ec9f62cce6732552fa06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="50" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" width="50" /> ![Flask](https://skillicons.dev/icons?i=flask) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Angular](https://skillicons.dev/icons?i=angular) |
-| **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-| **Data Engineering / Cloud** | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" /> ![Supabase](https://skillicons.dev/icons?i=supabase) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" /> ![Grafana](https://skillicons.dev/icons?i=grafana) |
-| **Banco de Dados** | <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="50" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
-| **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Git](https://skillicons.dev/icons?i=git) <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" /> ![Vercel](https://skillicons.dev/icons?i=vercel) |
-| **Game Dev** | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> ![Unity](https://skillicons.dev/icons?i=unity) ![Godot](https://skillicons.dev/icons?i=godot) ![Blender](https://skillicons.dev/icons?i=blender) |
-| **Estudando Atualmente** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Linux](https://skillicons.dev/icons?i=linux) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Arduino](https://skillicons.dev/icons?i=arduino) |
+| **Linguagens & Frameworks** | <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/4accd2f20a00fd4364e3456b3525b9af98b827afb9d4ec9f62cce6732552fa06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="50" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50" /> <img src="https://camo.githubusercontent.com/7978105e0c50b07ecec2ec899e32c98c1dff1781c952a08790db2ba6c307f298/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" width="50" /> ![Flask](https://skillicons.dev/icons?i=flask) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Angular](https://skillicons.dev/icons?i=angular) |
+| **Frontend & Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Dados & Nuvem** | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" /> ![Supabase](https://skillicons.dev/icons?i=supabase) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" /> ![Grafana](https://skillicons.dev/icons?i=grafana) |
+| **Bancos de Dados** | <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="50" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| **Ferramentas & Ambiente** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![Git](https://skillicons.dev/icons?i=git) <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" /> ![Vercel](https://skillicons.dev/icons?i=vercel) |
+| **Desenvolvimento de Jogos** | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /> ![Unity](https://skillicons.dev/icons?i=unity) ![Godot](https://skillicons.dev/icons?i=godot) ![Blender](https://skillicons.dev/icons?i=blender) |
+| **Estudando no Momento** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /> <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" /> ![Terraform](https://skillicons.dev/icons?i=terraform) ![Linux](https://skillicons.dev/icons?i=linux) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Arduino](https://skillicons.dev/icons?i=arduino) |
 
 </td>
 </tr>
@@ -43,25 +43,25 @@ Fora do terminal: hardware, impressão 3D, games e protótipos de fim de semana.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## <span style="color:#3399FF;">🏗️ Projeto em Destaque: Exatas Libras (Produção)</span>
+## <span style="color:#3399FF;">🏗️ Projeto em Destaque: Exatas Libras</span>
 
 <div align="center">
 
-> **Lead Developer & Architect** — [exataslibras.com.br](https://exataslibras.com.br/)
-> Plataforma de ensino STEM usando **Libras (Língua Brasileira de Sinais)** como linguagem primária.
+> **Desenvolvedor & Arquiteto** — [exataslibras.com.br](https://exataslibras.com.br/)  
+> Plataforma de ensino de exatas criada para a comunidade surda, tendo **Libras (Língua Brasileira de Sinais)** como idioma principal.
 
 </div>
 
-**Destaques da Arquitetura:**
+**Como o projeto foi construído:**
 
-| Feature | Detalhe |
-|---------|---------|
-| **Serverless & Edge-ready** | Next.js 16 App Router com React Server Components |
-| **BaaS com Supabase** | PostgreSQL gerenciado, auth SSR-compatible, middleware |
-| **Pagamentos** | Stripe Checkout + Webhooks com handlers idempotentes |
-| **CMS Híbrido** | Catálogo estático tipado + Blog MDX com Grey Matter |
-| **Observabilidade** | Vercel Analytics + Speed Insights em produção |
-| **IoT (v2.0)** | Sensores ESP32 alimentando dados em tempo real |
+| Parte do Sistema | Tecnologias e Detalhes |
+|---|---|
+| **Frontend & Serverless** | Next.js (App Router) com React Server Components para navegação ágil e boa performance |
+| **Banco de Dados & Autenticação** | Supabase (PostgreSQL) com controle de acesso e sessão seguros |
+| **Pagamentos Integrados** | Stripe Checkout e Webhooks para gestão de assinaturas e acessos |
+| **Conteúdo & Aulas** | Catálogo estruturado e blog com MDX para publicação dinâmica |
+| **Monitoramento** | Vercel Analytics para acompanhar a saúde e velocidade da aplicação |
+| **IoT (v2.0)** | Sensores ESP32 integrados para coleta e visualização de dados práticos |
 
 ```text
 Client (RSC/Edge)
@@ -76,32 +76,32 @@ Next.js App Router ──► Supabase (Auth + Postgres)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## <span style="color:#3399FF;">🚀 Projetos de Destaque</span>
+## <span style="color:#3399FF;">🚀 Outros Projetos</span>
 
-### Plataformas Web & SaaS
+### Web & Plataformas
 
-| Projeto | Descrição | Link |
+| Projeto | O que é / Tecnologias | Link |
 |---|---|---|
-| **Exatas Libras** | Plataforma EdTech serverless com Next.js 16, Supabase, Stripe e IoT — acessibilidade STEM em Libras. | [exataslibras.com.br](https://exataslibras.com.br/) |
+| **Exatas Libras** | Plataforma educacional completa focada em acessibilidade com Next.js, Supabase, Stripe e IoT. | [exataslibras.com.br](https://exataslibras.com.br/) |
 
-### Data Engineering & Analytics
+### Engenharia de Dados & Nuvem
 
-| Projeto | Habilidade Demonstrada | Link |
+| Projeto | O que é / Tecnologias | Link |
 |---|---|---|
-| **AWS Data Lake** | Arquitetura de Data Lake com AWS Glue, S3 e Pandas — pipelines de ETL e dashboards. | Em desenvolvimento |
+| **AWS Data Lake** | Estruturação de data lake e pipelines de ETL para análise de dados com AWS (S3, Glue) e Python (Pandas). | Em desenvolvimento |
 
-### Game Dev & Interatividade
+### Jogos & Interatividade
 
-| Projeto | Habilidade Demonstrada | Link |
+| Projeto | O que é / Tecnologias | Link |
 |---|---|---|
-| **Guardiãs das Águas** | Game narrativo educacional desenvolvido com Unity/Godot no SENAI. | [SENAI Game Hub](https://senaigamehub.vercel.app/)  |
-| **AudioRadar** | App desktop com Firebase real-time backend para acessibilidade. | [vradar.com.br](https://vradar.com.br/)  |
+| **Guardiãs das Águas** | Jogo educativo narrativo desenvolvido com foco em conscientização ambiental e aprendizagem. | [SENAI Game Hub](https://senaigamehub.vercel.app/)  |
+| **AudioRadar** | Aplicativo de apoio à acessibilidade sonora com sincronização em tempo real via Firebase. | [vradar.com.br](https://vradar.com.br/)  |
 
-### Pesquisa & IA
+### Inteligência Artificial & Acessibilidade
 
-| Projeto | Habilidade Demonstrada | Link |
+| Projeto | O que é / Tecnologias | Link |
 |---|---|---|
-| **Sign Language AI** | Pipeline de Computer Vision e Machine Learning para reconhecimento de Libras. | Em desenvolvimento |
+| **Sign Language AI** | Pesquisa e desenvolvimento com visão computacional para reconhecimento e tradução de sinais em Libras. | Em desenvolvimento |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -151,7 +151,7 @@ Next.js App Router ──► Supabase (Auth + Postgres)
 
 <div align="center">
 
-Interessado em colaborar ou tem um projeto desafiador? Conecte-se comigo!
+Quer trocar uma ideia sobre desenvolvimento, projetos de acessibilidade, jogos ou qualquer outra coisa? Fique à vontade para me mandar uma mensagem!
 
 <a href="https://www.linkedin.com/in/lucaslopes-ti/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
