@@ -17,9 +17,36 @@
 
 ### Hi, I'm Lucas 👋
 
-I'm a software engineer who takes ideas from **blank page to production**: full-stack web platforms, data pipelines on the cloud and products that work for everyone, including people with disabilities.
+I'm a **Computer Engineer** who takes ideas from **blank page to production**: full-stack web platforms, cloud data pipelines and IoT, built so they work for everyone, including Deaf and disabled users.
 
-I shipped and run **[Exatas Libras](https://exataslibras.com.br/)**, a paid learning platform for the Deaf community (Next.js, Supabase, Stripe), and I teach programming and game development. As the son of Deaf parents, accessibility isn't a checkbox for me: it's where I come from. 🤟
+I grew up between two languages, Portuguese and **Libras** (Brazilian Sign Language). That story shapes everything I build. 🤟
+
+<br>
+
+## My story
+
+<table>
+  <tr>
+    <td width="80" align="center">🤟</td>
+    <td><b>Raised in Libras.</b> I'm the son of Deaf parents. Before I wrote my first line of code, I was already translating between two worlds, and I saw up close how much technology leaves Deaf people out.</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Computer Engineering.</b> My degree gave me the full picture, from circuits and microcontrollers to software, data and systems. That's why I'm comfortable going from an ESP32 sensor to a cloud dashboard in the same project.</td>
+  </tr>
+  <tr>
+    <td align="center">👨‍🏫</td>
+    <td><b>Teacher.</b> I teach computing and game development. Explaining complex things simply is part of my daily work, and it shows in how I talk to clients and document what I deliver.</td>
+  </tr>
+  <tr>
+    <td align="center">🔬</td>
+    <td><b>Researcher.</b> I research accessibility in Libras, including computer vision to recognize and translate signs.</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Builder.</b> All of it comes together in <a href="https://exataslibras.com.br/"><b>Exatas Libras</b></a>, a platform I designed and built where Deaf students learn math and science with Libras as the primary language.</td>
+  </tr>
+</table>
 
 <br>
 
@@ -152,9 +179,9 @@ flowchart LR
 
 ### Olá, eu sou o Lucas 👋
 
-Sou engenheiro de software e levo ideias **do zero até a produção**: plataformas web full-stack, pipelines de dados na nuvem e produtos que funcionam para todo mundo, inclusive pessoas com deficiência.
+Sou **Engenheiro de Computação** e levo ideias **do zero até a produção**: plataformas web full-stack, pipelines de dados na nuvem e IoT, feitas para funcionar para todo mundo, inclusive pessoas surdas e com deficiência.
 
-Criei e mantenho a **[Exatas Libras](https://exataslibras.com.br/)**, plataforma de ensino de exatas para a comunidade surda, com Libras como idioma principal (Next.js, Supabase, Stripe). Também sou professor de informática e desenvolvimento de jogos, e pesquiso soluções de acessibilidade em Libras. Como filho de pais surdos, tecnologia inclusiva faz parte da minha história. 🤟
+**Minha história.** Sou filho de pais surdos e cresci entre duas línguas, o português e a **Libras**. A Engenharia de Computação me deu a base do hardware ao software, dos microcontroladores aos dados e sistemas. Hoje também sou professor de informática e desenvolvimento de jogos, e pesquiso acessibilidade em Libras, incluindo visão computacional para reconhecimento de sinais. Tudo isso se junta na **[Exatas Libras](https://exataslibras.com.br/)**, plataforma que projetei e desenvolvi para ensinar exatas à comunidade surda, com Libras como idioma principal. 🤟
 
 **Como posso ajudar:** aplicações web e MVPs, engenharia de dados (ETL, data lakes, AWS), APIs e backends, produtos acessíveis, jogos educativos e protótipos IoT.
 
