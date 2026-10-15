@@ -125,26 +125,76 @@ flowchart LR
 
 ## Tech stack
 
-<p>
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,html,css&theme=dark" alt="Python, TypeScript, JavaScript, Java, C#, HTML, CSS">
-</p>
-<p>
-  <b>Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,django,flask,dotnet,tailwind,bootstrap&theme=dark" alt="Next.js, React, Angular, Django, Flask, .NET, Tailwind, Bootstrap">
-</p>
-<p>
-  <b>Data &amp; Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,supabase,postgres,mysql,sqlite,grafana,vercel&theme=dark" alt="AWS, Supabase, PostgreSQL, MySQL, SQLite, Grafana, Vercel">
-</p>
-<p>
-  <b>Games, Hardware &amp; Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,arduino,raspberrypi,git,github,vscode&theme=dark" alt="Unity, Godot, Blender, Arduino, Raspberry Pi, Git, GitHub, VS Code">
-</p>
-<p>
-  <b>Currently learning</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux&theme=dark" alt="Docker, Kubernetes, Terraform, Linux">
-</p>
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" title="TypeScript" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" title="C#" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS" width="48" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Frameworks</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" title="Django" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" title="Angular" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" title=".NET" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" title="Tailwind" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" width="48" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Data &amp; Cloud</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" title="AWS" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" title="MySQL" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="48" height="48">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel" width="48" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Games &amp; Hardware</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" title="C#" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot" title="Godot" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" title="Blender" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="48" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Tools</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" title="Prettier" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" title="PyCharm" width="48" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td width="170"><b>Currently learning</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="48" height="48">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="48" height="48">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="48" height="48">
+    </td>
+  </tr>
+</table>
 
 <br>
 
