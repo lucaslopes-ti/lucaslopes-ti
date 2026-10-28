@@ -23,14 +23,6 @@ I grew up between two languages, Portuguese and **Libras** (Brazilian Sign Langu
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaslopes-ti/lucaslopes-ti/output/github-contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslopes-ti/lucaslopes-ti/output/github-contributions.svg">
-  <img alt="GitHub contributions in the last year" src="https://raw.githubusercontent.com/lucaslopes-ti/lucaslopes-ti/output/github-contributions.svg" width="100%">
-</picture>
-
-<br>
-
 ## My story
 
 <table>
