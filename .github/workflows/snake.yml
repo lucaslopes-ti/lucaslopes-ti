@@ -18,8 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate github-contributions.svg
-        run: node .github/scripts/contribution-graph.mjs ${{ github.repository_owner }} dist
+      - name: generate github-contributions.json
+        run: node .github/scripts/contributions.mjs ${{ github.repository_owner }} dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
